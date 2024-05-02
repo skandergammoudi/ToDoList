@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|c:\\users\\asus\\source\\repos\\crudecole\\crudecole\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|solutionrelative:crudecole\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|c:\\users\\asus\\source\\repos\\crudecole\\crudecole\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|solutionrelative:crudecole\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|c:\\users\\asus\\source\\repos\\crudecole\\crudecole\\migrations\\20240502155547_addstartandendtimetotaskitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|solutionrelative:crudecole\\migrations\\20240502155547_addstartandendtimetotaskitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|c:\\users\\asus\\source\\repos\\crudecole\\crudecole\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|solutionrelative:crudecole\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|c:\\users\\asus\\source\\repos\\crudecole\\crudecole\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|solutionrelative:crudecole\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|c:\\users\\asus\\source\\repos\\crudecole\\crudecole\\migrations\\20240501213941_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|solutionrelative:crudecole\\migrations\\20240501213941_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|c:\\users\\asus\\source\\repos\\crudecole\\crudecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|solutionrelative:crudecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|c:\\users\\asus\\source\\repos\\crudecole\\crudecole\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|solutionrelative:crudecole\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|c:\\users\\asus\\source\\repos\\crudecole\\crudecole\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|solutionrelative:crudecole\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|c:\\users\\asus\\source\\repos\\crudecole\\crudecole\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC01023-750D-416F-933F-9C018C660FB7}|CrudEcole\\CrudEcole.csproj|solutionrelative:crudecole\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\.gitignore.txt",
+              "RelativeDocumentMoniker": "CrudEcole\\.gitignore.txt",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\.gitignore.txt",
+              "RelativeToolTip": "CrudEcole\\.gitignore.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-02T20:14:45.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240502155547_AddStartAndEndTimeToTaskItems.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Migrations\\20240502155547_AddStartAndEndTimeToTaskItems.cs",
+              "RelativeDocumentMoniker": "CrudEcole\\Migrations\\20240502155547_AddStartAndEndTimeToTaskItems.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Migrations\\20240502155547_AddStartAndEndTimeToTaskItems.cs",
+              "RelativeToolTip": "CrudEcole\\Migrations\\20240502155547_AddStartAndEndTimeToTaskItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:55:48.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240501213941_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Migrations\\20240501213941_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CrudEcole\\Migrations\\20240501213941_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Migrations\\20240501213941_InitialCreate.cs",
+              "RelativeToolTip": "CrudEcole\\Migrations\\20240501213941_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:39:41.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudEcole\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\appsettings.json",
+              "RelativeToolTip": "CrudEcole\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T21:25:58.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CrudEcole\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CrudEcole\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:19:26.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CrudEcole\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CrudEcole\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T05:47:45.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Views\\Tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudEcole\\Views\\Tasks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Views\\Tasks\\Index.cshtml",
+              "RelativeToolTip": "CrudEcole\\Views\\Tasks\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T05:32:06.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "CrudEcole\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "CrudEcole\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T04:59:06.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "CrudEcole\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Models\\TaskItem.cs",
+              "RelativeToolTip": "CrudEcole\\Models\\TaskItem.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIA3wAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T04:57:11.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Program.cs",
+              "RelativeDocumentMoniker": "CrudEcole\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CrudEcole\\CrudEcole\\Program.cs",
+              "RelativeToolTip": "CrudEcole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:29:11.103Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

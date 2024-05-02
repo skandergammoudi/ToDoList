@@ -1,0 +1,28 @@
+﻿/* wwwroot/css/styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.table-custom {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .table-custom th, .table-custom td {
+        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .table-custom th {
+        background-color: #efefef;
+    }
+/* Pour les boutons dans les vues de tâches */
+.btn-task {
+    color: white;
+    background-color: blue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

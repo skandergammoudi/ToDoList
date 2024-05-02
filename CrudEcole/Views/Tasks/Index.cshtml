@@ -1,0 +1,65 @@
+﻿@model IEnumerable<CrudEcole.Models.TaskItem>
+
+<h2>Restaurant Acropole</h2>
+
+<p>
+    @Html.ActionLink("Create New Task", "Create", "Tasks", new { }, new { @class = "btn btn-primary" })
+</p>
+
+<table>
+    <tr>
+        <th>Title</th>
+        <th>Completed?</th>
+        <th>Start Time</th>
+        <th>End Time</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Title)</td>
+            <td>
+                @if (item.IsCompleted)
+                {
+                    <text>Yes</text>
+                }
+                else
+                {
+                    <text>No</text>
+                }
+            </td>
+            <td>
+                @if (item.StartTime.HasValue)
+                {
+                    @item.StartTime.Value.ToString("g")
+                }
+                else
+                {
+                    <text>Not Started</text>
+                }
+            </td>
+            <td>
+                @if (item.EndTime.HasValue)
+                {
+                    @item.EndTime.Value.ToString("g")
+                }
+                else
+                {
+                    <text>Not Finished</text>
+                }
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id }) |
+                @if (!item.StartTime.HasValue)
+                {
+                    @Html.ActionLink("Start", "StartTask", new { id = item.Id }, new { @class = "btn btn-success" })
+                }
+                else if (!item.EndTime.HasValue)
+                {
+                    @Html.ActionLink("Finish", "FinishTask", new { id = item.Id }, new { @class = "btn btn-danger" })
+                }
+            </td>
+        </tr>
+    }
+</table>
